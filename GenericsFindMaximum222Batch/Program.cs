@@ -18,6 +18,7 @@ namespace GenericsFindMaximum222Batch
                     ThreeFloatValues.FindMaxValue();
                     break;
                 case 3:
+                    ThreeStrings.FindMaxValue();
                     break;
                 case 4:
                     break;
