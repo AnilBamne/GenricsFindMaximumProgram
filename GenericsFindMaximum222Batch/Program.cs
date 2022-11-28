@@ -21,6 +21,9 @@ namespace GenericsFindMaximum222Batch
                     ThreeStrings.FindMaxValue();
                     break;
                 case 4:
+                    GenericsFindMaximum.FindMaxValue<int>(12,43,11);
+                    GenericsFindMaximum.FindMaxValue<double>(10.3,4.3,33.1);
+                    GenericsFindMaximum.FindMaxValue<String>("John","Roman","Goldberg");
                     break;
                 default:
                     Console.WriteLine("Invalid option , Please provide a valid input");
